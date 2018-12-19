@@ -31,7 +31,7 @@ git clone https://github.com/ESX-Org/esx_vehicleshop [esx]/esx_vehicleshop
 
 ## Installation
 - Import `esx_vehicleshop.sql` in your database
-- add a column | Plate | to owned_vehicles
+- add a column | plate | to owned_vehicles
 - Add this in your `server.cfg`:
 
 ```
